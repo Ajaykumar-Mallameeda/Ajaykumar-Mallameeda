@@ -151,10 +151,6 @@ Tech: Python · PyTorch · TensorFlow · OpenCV · Scikit-learn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumar-Mallameeda&layout=compact&theme=dark&bg_color=0D1117&text_color=E2E8F0&title_color=22C55E&border_color=1E293B&hide_border=true" alt="Most used programming languages by repository byte count: Python, TypeScript, JavaScript, C#, C++, and others" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajaykumar-Mallameeda&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=3" alt="GitHub achievement trophies" />
-</div>
-
 ---
 
 ## > connect
