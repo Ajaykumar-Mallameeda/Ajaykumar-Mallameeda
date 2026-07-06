@@ -151,6 +151,14 @@ Tech: Python · PyTorch · TensorFlow · OpenCV · Scikit-learn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumar-Mallameeda&layout=compact&theme=dark&bg_color=0D1117&text_color=E2E8F0&title_color=22C55E&border_color=1E293B&hide_border=true" alt="Most used programming languages by repository byte count: Python, TypeScript, JavaScript, C#, C++, and others" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ajaykumar-Mallameeda&bg_color=0D1117&color=22C55E&line=22C55E&point=22C55E&area=true&area_color=22C55E&hide_border=true&radius=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ajaykumar-Mallameeda&bg_color=ffffff&color=22C55E&line=22C55E&point=1E3A5F&area=true&area_color=22C55E22&hide_border=false&radius=8" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaykumar-Mallameeda&bg_color=0D1117&color=22C55E&line=22C55E&point=22C55E&area=true&area_color=22C55E&hide_border=true&radius=8" alt="Contribution activity graph showing commit timeline across all repositories" />
+  </picture>
+</div>
+
 ---
 
 ## > connect
