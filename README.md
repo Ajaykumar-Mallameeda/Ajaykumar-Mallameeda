@@ -140,29 +140,19 @@ Tech: Python · PyTorch · TensorFlow · OpenCV · Scikit-learn
 ## > stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ajaykumar-Mallameeda&show_icons=true&theme=dark&bg_color=0D1117&text_color=E2E8F0&icon_color=22C55E&title_color=22C55E&border_color=1E293B&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ajaykumar-Mallameeda&show_icons=true&theme=default&bg_color=ffffff&text_color=374151&icon_color=22C55E&title_color=1E3A5F&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Ajaykumar-Mallameeda&show_icons=true&theme=dark&bg_color=0D1117&text_color=E2E8F0&icon_color=22C55E&title_color=22C55E&border_color=1E293B&hide_border=true&count_private=true" alt="GitHub statistics showing total stars, commits, pull requests, and issues across all repositories" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykumar-Mallameeda&theme=dark&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideNums=E2E8F0&sideLabels=64748B&dates=64748B&border=1E293B&stroke=1E293B&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykumar-Mallameeda&theme=default&background=ffffff&ring=22C55E&fire=22C55E&currStreakLabel=1E3A5F&sideNums=374151&sideLabels=6B7280&dates=6B7280&hide_border=false" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykumar-Mallameeda&theme=dark&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideNums=E2E8F0&sideLabels=64748B&dates=64748B&border=1E293B&stroke=1E293B&hide_border=true" alt="Contribution streak graph showing longest streak, current streak, and total contributions over time" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaykumar-Mallameeda&show_icons=true&theme=dark&bg_color=0D1117&text_color=E2E8F0&icon_color=22C55E&title_color=22C55E&border_color=1E293B&hide_border=true&count_private=true" alt="GitHub statistics showing total stars, commits, pull requests, and issues across all repositories" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumar-Mallameeda&layout=compact&theme=dark&bg_color=0D1117&text_color=E2E8F0&title_color=22C55E&border_color=1E293B&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumar-Mallameeda&layout=compact&theme=default&bg_color=ffffff&text_color=374151&title_color=1E3A5F&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumar-Mallameeda&layout=compact&theme=dark&bg_color=0D1117&text_color=E2E8F0&title_color=22C55E&border_color=1E293B&hide_border=true" alt="Most used programming languages by repository byte count: Python, TypeScript, JavaScript, C#, C++, and others" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ajaykumar-Mallameeda&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Ajaykumar-Mallameeda&theme=flat&no-frame=false&no-bg=false&margin-w=10&column=3" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Ajaykumar-Mallameeda&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=3" alt="GitHub achievement trophies" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykumar-Mallameeda&theme=dark&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideNums=E2E8F0&sideLabels=64748B&dates=64748B&border=1E293B&stroke=1E293B&hide_border=true" alt="Contribution streak graph showing longest streak, current streak, and total contributions over time" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumar-Mallameeda&layout=compact&theme=dark&bg_color=0D1117&text_color=E2E8F0&title_color=22C55E&border_color=1E293B&hide_border=true" alt="Most used programming languages by repository byte count: Python, TypeScript, JavaScript, C#, C++, and others" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ajaykumar-Mallameeda&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=3" alt="GitHub achievement trophies" />
 </div>
 
 ---
