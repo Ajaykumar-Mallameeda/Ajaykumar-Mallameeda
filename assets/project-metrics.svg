@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 250" width="100%" height="auto">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&amp;display=swap');
+      text { font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', monospace; }
+    </style>
+    <linearGradient id="bgGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#22C55E;stop-opacity:0.05"/>
+      <stop offset="100%" style="stop-color:#22C55E;stop-opacity:0.01"/>
+    </linearGradient>
+  </defs>
+  <!-- Panel -->
+  <rect x="0.5" y="0.5" width="619" height="249" rx="6" fill="#0D1117" stroke="#1E293B" stroke-width="1"/>
+  <rect x="0" y="0" width="620" height="250" rx="6" fill="url(#bgGlow)"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="620" height="28" rx="6" fill="#161B22"/>
+  <rect x="0" y="14" width="620" height="14" fill="#161B22"/>
+  <text x="310" y="19" text-anchor="middle" fill="#8B949E" font-size="10" font-family="monospace">project — metrics [portfolio-overview]</text>
+
+  <!-- Card 1: Repos -->
+  <rect x="16" y="42" width="140" height="96" rx="4" fill="#161B22" stroke="#1E293B" stroke-width="1"/>
+  <text x="24" y="62" fill="#8B949E" font-size="9" font-family="monospace">REPOSITORIES</text>
+  <text x="24" y="90" fill="#22C55E" font-size="28" font-weight="700" font-family="monospace">8</text>
+  <text x="24" y="110" fill="#4ADE80" font-size="9" font-family="monospace">▲ +3 this year</text>
+  <text x="24" y="126" fill="#8B949E" font-size="8" font-family="monospace">5 pinned · 3 active</text>
+
+  <!-- Card 2: Languages -->
+  <rect x="168" y="42" width="140" height="96" rx="4" fill="#161B22" stroke="#1E293B" stroke-width="1"/>
+  <text x="176" y="62" fill="#8B949E" font-size="9" font-family="monospace">LANGUAGES</text>
+  <text x="176" y="90" fill="#3B82F6" font-size="28" font-weight="700" font-family="monospace">6</text>
+  <text x="176" y="110" fill="#60A5FA" font-size="9" font-family="monospace">across all repos</text>
+  <text x="176" y="126" fill="#8B949E" font-size="8" font-family="monospace">Py · TS · JS · C# · C++</text>
+
+  <!-- Card 3: Lines of Code (estimated from what we see in the repos) -->
+  <rect x="320" y="42" width="140" height="96" rx="4" fill="#161B22" stroke="#1E293B" stroke-width="1"/>
+  <text x="328" y="62" fill="#8B949E" font-size="9" font-family="monospace">TECH STACK</text>
+  <text x="328" y="90" fill="#F59E0B" font-size="28" font-weight="700" font-family="monospace">15</text>
+  <text x="328" y="110" fill="#FBBF24" font-size="9" font-family="monospace">technologies</text>
+  <text x="328" y="126" fill="#8B949E" font-size="8" font-family="monospace">Full-stack + AI/ML</text>
+
+  <!-- Card 4: Status -->
+  <rect x="472" y="42" width="136" height="96" rx="4" fill="#161B22" stroke="#1E293B" stroke-width="1"/>
+  <text x="480" y="62" fill="#8B949E" font-size="9" font-family="monospace">STATUS</text>
+  <text x="480" y="84" fill="#22C55E" font-size="9" font-family="monospace">●</text>
+  <text x="490" y="84" fill="#22C55E" font-size="9" font-family="monospace">Actively Building</text>
+  <text x="480" y="102" fill="#8B949E" font-size="9" font-family="monospace">▸ 3 active repos</text>
+  <text x="480" y="118" fill="#8B949E" font-size="9" font-family="monospace">▸ Learning Agentic AI</text>
+  <text x="480" y="134" fill="#8B949E" font-size="9" font-family="monospace">▸ Open to roles</text>
+
+  <!-- Bottom section: Domain tags -->
+  <text x="24" y="166" fill="#22C55E" font-size="10" font-weight="700" font-family="monospace">DOMAIN_EXPERTISE</text>
+
+  <!-- Tag bubbles -->
+  <rect x="24" y="176" width="100" height="22" rx="11" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="0.5"/>
+  <text x="74" y="191" text-anchor="middle" fill="#22C55E" font-size="9" font-family="monospace">Agentic AI</text>
+
+  <rect x="132" y="176" width="104" height="22" rx="11" fill="#3B82F6" fill-opacity="0.1" stroke="#3B82F6" stroke-width="0.5"/>
+  <text x="184" y="191" text-anchor="middle" fill="#60A5FA" font-size="9" font-family="monospace">Backend Eng</text>
+
+  <rect x="244" y="176" width="110" height="22" rx="11" fill="#F59E0B" fill-opacity="0.1" stroke="#F59E0B" stroke-width="0.5"/>
+  <text x="299" y="191" text-anchor="middle" fill="#FBBF24" font-size="9" font-family="monospace">Optimization</text>
+
+  <rect x="362" y="176" width="104" height="22" rx="11" fill="#EC4899" fill-opacity="0.1" stroke="#EC4899" stroke-width="0.5"/>
+  <text x="414" y="191" text-anchor="middle" fill="#F472B6" font-size="9" font-family="monospace">CV / Medical</text>
+
+  <rect x="474" y="176" width="100" height="22" rx="11" fill="#8B5CF6" fill-opacity="0.1" stroke="#8B5CF6" stroke-width="0.5"/>
+  <text x="524" y="191" text-anchor="middle" fill="#A78BFA" font-size="9" font-family="monospace">LLM Apps</text>
+
+  <!-- Bottom line -->
+  <text x="24" y="218" fill="#16A34A" font-size="9" font-family="monospace">$</text>
+  <text x="34" y="218" fill="#8B949E" font-size="9" font-family="monospace">./metrics --live</text>
+  <text x="160" y="218" fill="#22C55E" font-size="9" font-family="monospace">Data as of 2026-07-08</text>
+
+  <text x="24" y="238" fill="#16A34A" font-size="9" font-family="monospace">$</text>
+  <text x="34" y="238" fill="#8B949E" font-size="9" font-family="monospace">echo "Building strong foundations in AI &amp; Backend Engineering"</text>
+</svg>
