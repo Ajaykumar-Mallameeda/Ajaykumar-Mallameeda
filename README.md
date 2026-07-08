@@ -1,16 +1,16 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Ajaykumar-Mallameeda/Ajaykumar-Mallameeda/main/assets/terminal-header.svg" width="100%" alt="Terminal session header with ASCII art monogram and neofetch-style system info" />
-
+  <h1>Ajaykumar Mallameeda</h1>
+  <p>
+    <b>Computer Science & Engineering</b> · <b>Indian Institute of Technology Palakkad</b>
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=22C55E&center=true&vCenter=true&width=500&lines=AI+%26+Backend+Engineering;Building+practical+systems;Distributed+Systems+%26+Optimization;Continuous+learner" alt="Typing animation cycling through: AI and Backend Engineering, Building practical systems, Distributed Systems and Optimization, Continuous learner" />
+  </p>
 </div>
 
 ---
 
 ## `> index`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
 ### whoami
 
@@ -36,9 +36,6 @@ status:
   open_to: SDE / AI Engineering roles
 ```
 
-  </td>
-    <td width="50%" valign="top">
-
 ### focus
 
 ```yaml
@@ -63,35 +60,44 @@ computer_vision:
   - Classical image processing pipelines
 ```
 
-  </td>
-  </tr>
-</table>
-
 ---
 
 ## `> dashboard`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ajaykumar-Mallameeda/Ajaykumar-Mallameeda/main/assets/project-metrics.svg" width="100%" alt="Project analytics dashboard showing repository count, language diversity, tech stack size, and current status" />
-  <br><br>
   <img src="https://raw.githubusercontent.com/Ajaykumar-Mallameeda/Ajaykumar-Mallameeda/main/assets/skills-matrix.svg" width="100%" alt="Skills proficiency matrix across AI/ML, Backend, Cloud, Frontend, and Systems domains" />
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Agentic_AI-22C55E?style=flat&labelColor=161B22" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/Backend_Engineering-3B82F6?style=flat&labelColor=161B22" alt="Backend Engineering" />
+<img src="https://img.shields.io/badge/Optimization_%26_OR-F59E0B?style=flat&labelColor=161B22" alt="Optimization & OR" />
+<img src="https://img.shields.io/badge/Computer_Vision-EC4899?style=flat&labelColor=161B22" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/LLM_Applications-8B5CF6?style=flat&labelColor=161B22" alt="LLM Applications" />
+<img src="https://img.shields.io/badge/Cloud_Infrastructure-22C55E?style=flat&labelColor=161B22" alt="Cloud Infrastructure" />
+
 </div>
 
 ---
 
-## `> tech-stack`
+## `> tools`
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ajaykumar-Mallameeda/Ajaykumar-Mallameeda/main/assets/tech-stack.svg" width="100%" alt="Technology stack table with categories, technologies, proficiency bars, and status indicators" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,csharp,java,html,css" alt="Programming languages: Python, TypeScript, JavaScript, C++, C#, Java, HTML, CSS" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,flask" alt="Frameworks: React, Next.js, Tailwind CSS, Node.js, FastAPI, Flask" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="Machine learning: PyTorch, TensorFlow, OpenCV" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases: PostgreSQL, MongoDB, Redis" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,postman,unity,vscode" alt="Tools: Docker, Kubernetes, Git, Linux, Bash, Postman, Unity, VS Code" />
+</p>
 
 ---
 
 ## `> projects`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
 ### Liner Shipping Optimizer
 
@@ -113,10 +119,9 @@ computer_vision:
 
 > **Note:** Distributed optimization architecture exploration. Simulation results from controlled experimental environments.
 
-  </td>
-    <td width="50%" valign="top">
+---
 
-### Intelligent Traffic Flow Management
+### Intelligent Traffic Flow Management System
 
 *Adaptive signal control via time-varying network flow optimization*
 
@@ -137,10 +142,7 @@ computer_vision:
 
 > **&#9888; Limitation:** Single-intersection simulation, file-polling IPC. Trade-offs documented in repo.
 
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### Diabetic Retinopathy Detection
 
@@ -162,8 +164,7 @@ computer_vision:
 
 > **Context:** Single-dataset experiments, educational/research only. Not validated for clinical use.
 
-  </td>
-    <td width="50%" valign="top">
+---
 
 ### AI Communication Assistant
 
@@ -174,8 +175,6 @@ computer_vision:
 | Stack | Next.js · TypeScript · LLMs · Tailwind CSS |
 | Status | Active development |
 | Focus | AI-augmented communication workflows |
-
-*Building modern AI interfaces for communication and collaboration.*
 
 <a href="https://github.com/Ajaykumar-Mallameeda/ai-communication-assistant"><code>gh repo clone Ajaykumar-Mallameeda/ai-communication-assistant →</code></a>
 
@@ -192,10 +191,6 @@ computer_vision:
 | Focus | Voice-driven desktop automation |
 
 <a href="https://github.com/Ajaykumar-Mallameeda/Desktop-Voice-Assistant"><code>gh repo clone Ajaykumar-Mallameeda/Desktop-Voice-Assistant →</code></a>
-
-  </td>
-  </tr>
-</table>
 
 ---
 
@@ -277,18 +272,3 @@ computer_vision:
 ```
 
 </div>
-
-<!--
----
-## 💡 How to regenerate SVGs locally
-
-The SVG assets in `/assets/` are handcrafted for the terminal/Bloomberg aesthetic.
-To update them (e.g., skill levels, project counts, tech stack):
-
-1. Edit the `.svg` files in `/assets/` — they use clean inline SVG with monospace fonts
-2. Commit and push to main
-3. Images update instantly via raw.githubusercontent.com CDN
----
-
-*Profile last refreshed: 2026-07-08*
--->
